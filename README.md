@@ -15,5 +15,5 @@ There are seven total pieces that need to be printed: *axle_extension, clip_side
 
 ## 2. Construction and Wiring
 
-*inert photo of assembly*
+*insert photo of assembly*
 
