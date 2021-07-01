@@ -11,7 +11,7 @@ In this repository, I have included:
 3. the code for the raspberry pi
 
 ## 1. 3D Printing
-There are seven total pieces that need to be printed: *axle_extension, clip_side1_c, clip_side2_c, housing, motor_holder, pinion,* and *rack_assembly.* None of the pieces require any special printing instructions. PLA is the recommended material given its structural stability and cost. Support material will be required. 20% infill and 0.2 layer height is adequate. Once the piecees have finished printing, thuroughly remove all of the support material especially around the dove tails. 
+There are seven total pieces that need to be printed: *axle_extension, clip_side1_c, clip_side2_c, housing, motor_holder, pinion,* and *rack_assembly.* All of the STL files are in the STL folder. None of the pieces require any special printing instructions. PLA is the recommended material given its structural stability and cost. Support material will be required. 20% infill and 0.2 layer height is adequate. Once the piecees have finished printing, thuroughly remove all of the support material especially around the dove tails. 
 
 ## 2. Wiring and Construction
 The final hardware diagram and orientation of 3D printed parts are shown in Figures 1 and 2, respectively. The following guide will walk through the process of wiring and constructing step by step.
@@ -29,3 +29,5 @@ The final hardware diagram and orientation of 3D printed parts are shown in Figu
 7. Carefully slide the *housing* with the *rack_assembling* and *pinion* into the top dove groove of the *motor_holder*. It is important to line up the flat edge of the pinion with the flat edge of the motor's axle and may take some finessing.
 8. Slide *clip_slide1_c* into the bottom groove of the *motor_holder*.
 9. Attach the two leads from the motor controller to the two nodes on the motor. Figuring out which wire goes to which node will need to be determined by trial and error. If the wires are connected to the wrong nodes, the motor will simply rotate in the opposite direction. The correct orientation will need to be tested by running the up or down program to ensure it goes the correct direction. If the plunger goes down when the up program is ran, simply switch the wires.
+
+## 3. Code
