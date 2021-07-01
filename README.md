@@ -21,6 +21,7 @@ The final hardware diagram and orientation of 3D printed parts are shown in Figu
 3. Attach all wires as shown in the hardware diagram in Figure 1. The wires leading to the motor can remain unattached for now.
 
 <img src="/readme_images/ReP_circuit.jpg" width="500"/>
+**Figure 1: Hardware Diagram.** 
 
 4. Remove all support material from the 3D printed parts. May need to dremel parts down as necessary depending on printing accuracy.
 5. Insert the motor into the *motor_holder* with the axle lined up with the top dove groove.
