@@ -31,3 +31,13 @@ The final hardware diagram and orientation of 3D printed parts are shown in Figu
 9. Attach the two leads from the motor controller to the two nodes on the motor. Figuring out which wire goes to which node will need to be determined by trial and error. If the wires are connected to the wrong nodes, the motor will simply rotate in the opposite direction. The correct orientation will need to be tested by running the up or down program to ensure it goes the correct direction. If the plunger goes down when the up program is ran, simply switch the wires.
 
 ## 3. Code
+The code must be uploaded to the raspberry pi. I save all of my codes in a folder on the Desktop for easy access. This can be done manually through the a USB drive or by remotely accessing the pi and transfering the files through an app such as Transit. Once the code is loaded onto the pi, the following code can be used to run the ReP code provided.
+~~~
+cd Desktop/code/
+sudo python ReP_code.py
+~~~
+If you need to edit the code, the following line can be used to edit the code within the terminal.
+~~~
+nano ReP_code.py
+~~~
+
