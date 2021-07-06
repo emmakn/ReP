@@ -29,7 +29,7 @@ The final hardware diagram and orientation of 3D printed parts are shown in Figu
 7. Carefully slide the *housing* with the *rack_assembling* and *pinion* into the top dove groove of the *motor_holder*. It is important to line up the flat edge of the pinion with the flat edge of the motor's axle and may take some finessing.
 8. Slide *clip_slide1_c* into the bottom groove of the *motor_holder*.
 
-<img src="https://github.com/emmakn/ReP/blob/main/readme_images/assembly.JPG" width="500"/>\
+<img src="https://github.com/emmakn/ReP/blob/main/readme_images/assembly.JPG" height="500"/>\
 *Figure 2: Assembly of 3D printed parts.*
 
 10. Attach the two leads from the motor controller to the two nodes on the motor. Figuring out which wire goes to which node will need to be determined by trial and error. If the wires are connected to the wrong nodes, the motor will simply rotate in the opposite direction. The correct orientation will need to be tested by running the up or down program to ensure it goes the correct direction. If the plunger goes down when the up program is ran, simply switch the wires.
