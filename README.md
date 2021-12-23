@@ -2,7 +2,7 @@
 **Re**petative **P**ipettor
 
 ## Background
-The ReP was created to automate repetative pipetting tasks in a simple and cost-effective way. It utilizes a rack and pinion design to move the pipette's plunger up and down. It can be dialed in and calibrated to aspirate and dispense at any given rate, frequency, and volume. It is intended to be held upright with a ring stand clamp or any other clamped arm to allow for easy maneuverability and adaptability. The ReP is built around an Eppendorf pipette. The DC motor is controlled with a Raspberry Pi Nano and an L298N motor controller. The structure itself is 3D printed from PLA.
+The ReP was created to automate repetative pipetting tasks in a simple and cost-effective way. It utilizes a rack and pinion design to move the pipette's plunger up and down. It can be calibrated to aspirate and dispense at any given rate, frequency, and volume. It is intended to be held upright with a ring stand clamp or any other clamped arm to allow for easy maneuverability and adaptability. The ReP is built around an Eppendorf pipette. The DC motor is controlled with a Raspberry Pi Nano and an L298N motor controller. The structure itself is 3D printed from PLA.
 
 ## Included
 In this repository, I have included:
